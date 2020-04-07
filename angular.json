@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "quran"
+    }
+  },
+  "defaultProject": "quran",
+  "cli": {
+    "analytics": "7c813ad6-1209-4bec-a101-c28dbfca2648"
+  }
 }
