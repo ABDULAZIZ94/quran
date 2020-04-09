@@ -6,11 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'quran';
-  durationInSeconds = 5;
-  option="";
+
   constructor() {
     
   }
 }
+
+
+
+
 
