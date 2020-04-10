@@ -1,1 +1,11 @@
-<p>indexsurah works!</p>
+<mat-toolbar class="my-toolbar" color="primary">
+  <mat-toolbar-row >
+    <span class="tajuk">Daftar Surah</span>
+  </mat-toolbar-row>
+</mat-toolbar>
+<mat-card class="surah-name-card" *ngFor="let s of this.db.items | async">
+    <mat-chip-list >
+        <mat-chip color="primary" selected>{{s.SuraID}}</mat-chip>
+        <mat-chip>{{s.SuraName }}</mat-chip>
+    </mat-chip-list> 
+</mat-card>

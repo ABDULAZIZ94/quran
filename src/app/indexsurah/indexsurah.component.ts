@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import { Fetchdata2Service } from '../services/fetchdata2.service';
 @Component({
   selector: 'app-indexsurah',
   templateUrl: './indexsurah.component.html',
@@ -7,9 +7,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class IndexsurahComponent implements OnInit {
 
-  constructor() { }
+  constructor(public db: Fetchdata2Service) { }
 
   ngOnInit(): void {
+    this.getSurah();
+  }
+  getSurah(){
+    this.db.getSurah();
   }
 
 }

@@ -23,9 +23,10 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatSelectModule } from '@angular/material/select'; 
 import { MatRippleModule } from '@angular/material/core';
-import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
-import {MatTableModule} from '@angular/material/table';
-import {ScrollingModule} from '@angular/cdk/scrolling'
+import { MatProgressSpinnerModule} from '@angular/material/progress-spinner';
+import { MatTableModule } from '@angular/material/table';
+import { ScrollingModule } from '@angular/cdk/scrolling'
+import { MatChipsModule } from '@angular/material/chips';
 
 //custom component
 import { UitestComponent } from './uitest/uitest.component';
@@ -59,7 +60,8 @@ import { IndexsurahComponent } from './indexsurah/indexsurah.component';
     MatRippleModule,
     MatProgressSpinnerModule,
     MatTableModule,
-    ScrollingModule
+    ScrollingModule,
+    MatChipsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
