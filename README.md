@@ -1,7 +1,11 @@
 # Quran
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0. Using firebase integration and angular material ui
-
+Other interesting uix package:
+    1.project clarity: https://clarity.design/
+    2.primeNG: https://primefaces.org/primeng/showcase/#/
+    3.nebular: https://akveo.github.io/nebular/
+    4.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

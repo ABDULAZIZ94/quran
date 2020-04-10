@@ -2,6 +2,7 @@
   min-width: 150px;
   max-width: 500px;
   width: 100%;
+  height: 18%;
 }
 
 .example-full-width {
@@ -12,3 +13,12 @@
   margin: 5px 10px 5px 10px ;
 }
 
+//virtualscroll
+.example-viewport {
+  height: 70%;
+  width: 100%;
+}
+
+.example-item {
+  height: 50px;
+}

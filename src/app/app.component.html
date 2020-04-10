@@ -1,28 +1,3 @@
-<mat-card class="comment-card">
-    <form [formGroup]="this.fetchdataService.form" class="example-form">
-    
-        <mat-form-field class="example-full-width" appearance="fill">
-        <input matInput placeholder="leave a comment" 
-            formControlName="comment1" 
-            type="text" 
-            class="input-field col s12">
-        </mat-form-field>
+<app-firestoretest1></app-firestoretest1>
 
-        <mat-form-field class="example-full-width" appearance="fill">
-        <input matInput placeholder="leave a comment2" 
-            formControlName="comment2" 
-            type="text" 
-            class="input-field col s12">
-        </mat-form-field>        
 
-        <button 
-        class="waves-effect waves-light btn col s12" 
-        (click)="onSubmit()">
-            Submit
-        </button>
-    </form>
-</mat-card>
-<mat-card *ngFor="let c of comments" class="comment-card">
-    <p> comment 1 : {{c.payload.doc.data().comment1}}</p>
-    <p> comment 2 : {{c.payload.doc.data().comment2}}</p>
-</mat-card>
