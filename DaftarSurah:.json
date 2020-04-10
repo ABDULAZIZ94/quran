@@ -1,0 +1,460 @@
+  "DaftarSurah":
+    [
+      { 
+        "SuraName": "Al-Fatihah ( Pembukaan )",
+        "SuraID": "1"
+      },
+      {
+        "SuraName": "Al-Baqarah ( Sapi Betian )",
+        "SuraID": "2"
+      },
+      {
+        "SuraName": "Ali-Imran ( Keluarga Imran )",
+        "SuraID": "3"
+      },
+      {
+        "SuraName": "An-Nisaa' ( Wanita )",
+        "SuraID": "4"
+      },
+      {
+        "SuraName": "Al-Ma'idah ( Hidangan )",
+        "SuraID": "5"
+      },
+      {
+        "SuraName": "Al-An'am ( Binatang Ternakan )",
+        "SuraID": "6"
+      },
+      {
+        "SuraName": "Al-A'raaf ( Tempat Tertinggi )",
+        "SuraID": "7"
+      },
+      {
+        "SuraName": "Al-Anfaal ( Harta Rampasan Perang )",
+        "SuraID":"8"
+      },
+      {
+        "SuraName": "At-Taubah ( Pengampunan )",
+        "SuraID": "9"
+        
+      },
+      {
+        "SuraName": "Yunus ( Nabi Yunus a.s)",
+        "SuraID": "10"
+      },
+      {
+        "SuraName": "Hud ( Nabi Hud a.s)",
+        "SuraID": "11"
+      },
+      {
+        "SuraName": "Yusuf: ( Nabi Yusuf a.s)",
+        "SuraID": "12"
+      },
+      {
+        "SuraName": "Ar-Ra'd ( Guruh )",
+        "SuraID": "13"
+      },
+      {
+        "SuraName": "Ibrahim ( Nabi Ibrahim a.s )",
+        "SuraID": "14"
+      },
+      {
+        "SuraName": "Al-Hijr ( Negeri Kaum Thamud )",
+        "SuraID": "15"
+      },
+      {
+        "SuraName": "An-Nahl ( Lebah )",
+        "SuraID": "16"
+      },
+      {
+        "SuraName": "Al-Isra ( Memperjalankan Di Malam Hari )",
+        "SuraID": "17"
+      },
+      {
+        "SuraName": "Al-Kahfi ( Gua )",
+        "SuraID": "18"
+      },
+      {
+        "SuraName": "Maryam ( Ibu Nabi Isa )",
+        "SuraID": "19"
+      },
+      {
+        "SuraName": "Taha",
+        "SuraID": "20"
+      },
+      {
+        "SuraName": "Al-Anbiya' ( Para Nabi - Nabi )",
+        "SuraID": "21"
+      },
+      {
+        "SuraName": "Al-Hajj ( Haji )",
+        "SuraID": "22"
+      },
+      {
+        "SuraName": "Al-Mukminun ( Orang - Orang Yang Beriman )",
+        "SuraID": "23"
+      },
+      {
+        "SuraName": "An-Nur ( Cahaya )",
+        "SuraID": "24"
+      },
+      {
+        "SuraName": "Al-Furqan ( Pembeza )",
+        "SuraID": "25"
+      },
+      {
+        "SuraName": "Al-Syu'ara' ( Para Penyair )",
+        "SuraID": "26"
+      },
+      {
+        "SuraName": "An-Naml ( Semut )",
+        "SuraID": "27"
+      },
+      {
+        "SuraName": "Al-Qasas ( Cerita-cerita )",
+        "SuraID": "28"
+      },
+      {
+        "SuraName": "Al-'Ankabut' ( Laba-Laba )",
+        "SuraID": "29"
+      },
+      {
+        "SuraName": "Al-Rum ( Bangsa Romawi )",
+        "SuraID": "30"
+      },
+      {
+        "SuraName": "Luqman ( Luqman Al-Hakim )",
+        "SuraID": "31"
+      },
+      {
+        "SuraName": "As-sajdah ( Sujud )",
+        "SuraID": "32"
+      },
+      {
+        "SuraName": "Al-Ahzab ( Golongan Yang Bersekutu )",
+        "SuraID": "33"
+      },
+      {
+        "SuraName": "Saba ( Kaum Saba' )",
+        "SuraID": "34"
+      },
+      {
+        "SuraName": "Faatir ( Pencipta )",
+        "SuraID": "35"
+      },
+      {
+        "SuraName": "Yaasin",
+        "SuraID": "36"
+      },
+      {
+        "SuraName": "As-Saffat ( Yang Berbaris Dengan Teratur )",
+        "SuraID": "37"
+      },
+      {
+        "SuraName": "As-Sad ( Sad )",
+        "SuraID": "38"
+      },
+      {
+        "SuraName": "Az-Zumar ( Rombongan )",
+        "SuraID": "39"
+      },
+      {
+        "SuraName": "Al-Mu'min ( Orang Beriman )",
+        "SuraID": "40"
+      },
+      {
+        "SuraName": "Fussilat ( Dijelaskan )",
+        "SuraID": "41"
+      },
+      {
+        "SuraName": "As-Syura ( Permesyuarat )",
+        "SuraID": "42"
+      },
+      {
+        "SuraName": "Az-Zukhruf ( Perhiasan Emas )",
+        "SuraID": "43"
+      },
+      {
+        "SuraName": "Ad-Dukhan ( Asap )",
+        "SuraID": "44"
+      },
+      {
+        "SuraName": "Al-Jatsiah ( Yang Berlutut )",
+        "SuraID": "45"
+      },
+      {
+        "SuraName": "Al-Ahqaaf ( Bukit-Bukit Pasir )",
+        "SuraID": "46"
+      },
+      {
+        "SuraName": "Muhammad ( Nabi Muhammad s.a.w )",
+        "SuraID": "47"
+      },
+      {
+        "SuraName": "Al-Fath  ( Kemenangan )",
+        "SuraID": "48"
+      },
+      {
+        "SuraName": "Al-Hujurat ( Bilik-Bilik )",
+        "SuraID": "49"
+      },
+      {
+        "SuraName": "Qaf",
+        "SuraID": "50"
+      },
+      {
+        "SuraName": "Adz-Dzariyaat ( Angin Yang Menerbangkan )",
+        "SuraID": "51"
+      },
+      {
+        "SuraName": "At-Thur ( Gunung )",
+        "SuraID": "52"
+      },
+      {
+        "SuraName": "An-Najm ( Bintang )",
+        "SuraID": "53"
+      },
+      {
+        "SuraName": "Al-Qamar ( Bulan )",
+        "SuraID": "54"
+      },
+      {
+        "SuraName": "Ar-Rahman ( Yang Maha Pemurah )",
+        "SuraID": "55"
+      },
+      {
+        "SuraName": "Al-Waqiah ( Hari Kiamat )",
+        "SuraID": "56"
+      },
+      {
+        "SuraName": "Al-Hadid ( Besi )",
+        "SuraID": "57"
+      },
+      {
+        "SuraName": "Al-Mujadalah ( Wanita Yang Mengajukan Gugatan )",
+        "SuraID": "58"
+      },
+      {
+        "SuraName": "Al-Hasyr ( Pengusiran )",
+        "SuraID": "59"
+      },
+      {
+        "SuraName": "Al-Mumtahanah ( Perempuan Yang Di Uji )",
+        "SuraID": "60"
+      },
+      {
+        "SuraName": "As-Saf ( Barisan )",
+        "SuraID": "61"
+      },
+      {
+        "SuraName": "Al-Jumu'ah ( Hari Jumaat )",
+        "SuraID": "62"
+      },
+      {
+        "SuraName": "Al-Munafiqun ( Golongan Munafiq )",
+        "SuraID": "63"
+      },
+      {
+        "SuraName": "At-Taghabun ( Dinampakkkan Kesalahan )",
+        "SuraID": "64"
+      },
+      {
+        "SuraName": "At-Talaq ( Cerai / Talak )",
+        "SuraID": "65"
+      },
+      {
+        "SuraName": "At-Tahrim ( Mengharamkan )",
+        "SuraID": "66"
+      },
+      {
+        "SuraName": "Al-Mulk ( Kerajaan )",
+        "SuraID": "67"
+      },
+      {
+        "SuraName": "Al-Qalam ( Pena / Kalam )",
+        "SuraID": "68"
+      },
+      {
+        "SuraName": "Al-Haqqah ( Keadaan Sebenar / Hari Kiamat )",
+        "SuraID": "69"
+      },
+      {
+        "SuraName": "Al-Ma'arij ( Tempat-Tempat Naik )",
+        "SuraID": "70"
+      },
+      {
+        "SuraName": "Nuh ( Nabi Nuh a.s )",
+        "SuraID": "71"
+      },
+      {
+        "SuraName": "Al-Jin ( Jin )",
+        "SuraID": "72"
+      },
+      {
+        "SuraName": "Al-Muzzammil ( Yang Berselimut )",
+        "SuraID": "73"
+      },
+      {
+        "SuraName": "Al-Muddathir ( Yang Berselubung )",
+        "SuraID": "74"
+      },
+      {
+        "SuraName": "Al-Qiyamah ( Hari Kebangkitan / Kiamat  )",
+        "SuraID": "75"
+      },
+      {
+        "SuraName": "Al-Insan ( Manusia )",
+        "SuraID": "76"
+      },
+      {
+        "SuraName": "Al-Mursalat ( Malaikat Yang Diutus )",
+        "SuraID": "77"
+      },
+      {
+        "SuraName": "An-Naba ( Berita Besar )",
+        "SuraID": "78"
+      },
+      {
+        "SuraName": "An-Naziat ( Malaikat Yang Mencabut)",
+        "SuraID": "79"
+      },
+      {
+        "SuraName": "Abasa ( Dia Bermasam Muka )",
+        "SuraID": "80"
+      },
+      {
+        "SuraName": "At-Takwir ( Menggulung )",
+        "SuraID": "81"
+      },
+      {
+        "SuraName": "Al-Infitar ( Terpecah & Terbelah )",
+        "SuraID": "82"
+      },
+      {
+        "SuraName": "Al-Mutaffifin ( Golongan Yang Curang )",
+        "SuraID": "83"
+      },
+      {
+        "SuraName": "Al-Inshiqaq ( Terbelah )",
+        "SuraID": "84"
+      },
+      {
+        "SuraName": "Al-Buruj ( Gugusan Bintang )",
+        "SuraID": "85"
+      },
+      {
+        "SuraName": "At-Tariq ( Pengunjung Malam )",
+        "SuraID": "86"
+      },
+      {
+        "SuraName": "Al-A'laa ( Yang Tertinggi )",
+        "SuraID": "87"
+      },
+      {
+        "SuraName": "Al-Ghasyiya ( Peristiwa Menggelisahkan / Hari Pembalasan )",
+        "SuraID": "88"
+      },
+      {
+        "SuraName": "Al-Fajr ( Fajar / Sinar Mentari )",
+        "SuraID": "89"
+      },
+      {
+        "SuraName": "Al-Balad ( Negeri )",
+        "SuraID": "90"
+      },
+      {
+        "SuraName": "As-Syams ( Matahari )",
+        "SuraID": "91"
+      },
+      {
+        "SuraName": "Al-Lail ( Malam )",
+        "SuraID": "92"
+      },
+      {
+        "SuraName": "Ad-Dhuha ( Waktu Matahari Naik Sepenggal )",
+        "SuraID": "93"
+      },
+      {
+        "SuraName": "Al-Insyirah ( Melapangkan )",
+        "SuraID": "94"
+      },
+      {
+        "SuraName": "At-Tin ( Buah Tin )",
+        "SuraID": "95"
+      },
+      {
+        "SuraName": "Al-Alaq ( Segumpal Darah )",
+        "SuraID": "96"
+      },
+      {
+        "SuraName": "Al-Qadr ( Kemuliaan )",
+        "SuraID": "97"
+      },
+      {
+        "SuraName": "Al-Bayyinah ( Bukti Yang Nyata )",
+        "SuraID": "98"
+      },
+      {
+        "SuraName": "Az-Zalzalah ( Gempa / Kegoncangan )",
+        "SuraID": "99"
+      },
+      {
+        "SuraName": "Al-Adiyat ( Kuda Perang )",
+        "SuraID": "100"
+      },
+      {
+        "SuraName": "Al-Qaria ( Hari Yang Hingar Bingar )",
+        "SuraID": "101"
+      },
+      {
+        "SuraName": "At-Takathur ( Bermengah-megah )",
+        "SuraID": "102"
+      },
+      {
+        "SuraName": "Al-Asr ( Masa / Waktu )",
+        "SuraID": "103"
+      },
+      {
+        "SuraName": "Al-Humaza ( Pengumpat )",
+        "SuraID": "104"
+      },
+      {
+        "SuraName": "Al-Fil ( Gajah )",
+        "SuraID": "105"
+      },
+      {
+        "SuraName": "Quraysh ( Kaum Quraysh )",
+        "SuraID": "106"
+      },
+      {
+        "SuraName": "Al-Ma'un ( Bantuan )",
+        "SuraID": "107"
+      },
+      {
+        "SuraName": "Al-Kawthar ( Sungai Di Syurga )",
+        "SuraID": "108"
+      },
+      {
+        "SuraName": "Al-Kafirun ( Orang-orang Kafir )",
+        "SuraID": "109"
+      },
+      {
+        "SuraName": "An-Nasr ( Pertolongan )",
+        "SuraID": "110"
+      },
+      {
+        "SuraName": "Al-Masadd (Anyaman Tali)",
+        "SuraID": "111"
+      },
+      {
+        "SuraName": "Al-Ikhlas (Ikhlas)",
+        "SuraID": "112"
+      },
+      {
+        "SuraName": "Al-Falaq ( Waktu Subuh )",
+        "SuraID": "113"
+      },
+      {
+        "SuraName": "An-Nas ( Manusia )",
+        "SuraID": "114"
+      }
+    ]
