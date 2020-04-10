@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Fetchdata2Service } from '../services/fetchdata2.service';
+
 @Component({
   selector: 'app-indexsurah',
   templateUrl: './indexsurah.component.html',

@@ -32,6 +32,7 @@ import { MatChipsModule } from '@angular/material/chips';
 import { UitestComponent } from './uitest/uitest.component';
 import { Firestoretest1Component } from './firestoretest1/firestoretest1.component';
 import { IndexsurahComponent } from './indexsurah/indexsurah.component';
+import { BacasurahComponent } from './bacasurah/bacasurah.component';
 
 @NgModule({
   declarations: [
@@ -39,6 +40,7 @@ import { IndexsurahComponent } from './indexsurah/indexsurah.component';
     UitestComponent,
     Firestoretest1Component,
     IndexsurahComponent,
+    BacasurahComponent,
   ],
   imports: [
     BrowserModule,

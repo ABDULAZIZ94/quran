@@ -1,0 +1,19 @@
+<mat-toolbar class="my-toolbar" color="primary">
+  <mat-toolbar-row >
+    <span class="tajuk">Surah</span>
+  </mat-toolbar-row>
+</mat-toolbar>
+
+
+
+  <mat-card class="surah-name-card" *ngFor="let s of this.db.items | async">
+      <mat-chip-list >
+          <mat-chip color="primary" selected>{{s.VerseID}}</mat-chip>
+          <mat-chip>{{s.AyahText }}</mat-chip>
+          <!-- {{s|json}} -->
+
+      </mat-chip-list> 
+  </mat-card>
+
+
+
