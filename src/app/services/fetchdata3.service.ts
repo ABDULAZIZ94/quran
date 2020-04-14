@@ -25,4 +25,8 @@ export class Fetchdata3Service implements OnInit{
     this.items = this.db.list('MushafQuranArab', ref => ref.orderByChild("SuraID").equalTo('1')).valueChanges();
     console.log(this.items);
   }
+  getSurahNo(no: string) {
+    this.items = this.db.list('MushafQuranArab', ref => ref.orderByChild("SuraID").equalTo(no)).valueChanges();
+    console.log(this.items);
+  }
 }

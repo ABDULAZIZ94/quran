@@ -44,7 +44,6 @@ import { BacasurahComponent } from './bacasurah/bacasurah.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
     ReactiveFormsModule,
     AngularFireModule.initializeApp(environment.firebaseConfig),
     AngularFirestoreModule, // firestore
@@ -63,7 +62,8 @@ import { BacasurahComponent } from './bacasurah/bacasurah.component';
     MatProgressSpinnerModule,
     MatTableModule,
     ScrollingModule,
-    MatChipsModule
+    MatChipsModule,
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

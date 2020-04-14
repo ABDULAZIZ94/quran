@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { Fetchdata3Service } from '../services/fetchdata3.service';
+import { ActivatedRoute } from '@angular/router';
+import { Observable } from 'rxjs';
+import { switchMap } from 'rxjs/operators';
+
 @Component({
   selector: 'app-bacasurah',
   templateUrl: './bacasurah.component.html',
@@ -7,10 +11,14 @@ import { Fetchdata3Service } from '../services/fetchdata3.service';
 })
 export class BacasurahComponent implements OnInit {
 
-  constructor(public db:Fetchdata3Service) { }
+  selectedId: string;
+
+  constructor(public db:Fetchdata3Service, public route: ActivatedRoute) { }
 
   ngOnInit(): void {
-    this.db.getSurah();
+    this.selectedId = this.route.snapshot.paramMap.get('nosura');
+        
+    this.db.getSurahNo(this.selectedId);
   }
 
 }
